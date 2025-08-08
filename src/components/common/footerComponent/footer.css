@@ -1,0 +1,234 @@
+.footer-container{
+    width: 1440px;
+    max-width: 1440px;
+    height: 464px;
+    top: 3316px;
+    left: -3px;
+    margin: 0 auto;
+    background-color: #000000;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+
+}
+.top-text-container{
+    width: 100%;
+    overflow: hidden;
+    white-space: nowrap;
+}
+.top-text{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:space-around;
+    width: 1451px;
+    height: 28px;
+    top: 3334px;
+    left: -6px;
+    margin: 0 auto;
+    
+}
+
+
+.h11{
+    width: 310px;
+    height: 28px;
+    top: 3334px;
+    left: -6px;
+    font-family: SF Pro Text;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 28px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+}
+.h12{
+     width: 130px;
+height: 28px;
+top: 3334px;
+left: 510px;
+font-family: SF Pro Text;
+font-weight: 800;
+font-size: 20px;
+line-height: 28px;
+letter-spacing: 2px;
+text-transform: uppercase;
+
+
+}
+.h13{
+     width: 136px;
+height: 28px;
+top: 3334px;
+left: 908px;
+font-family: SF Pro Text;
+font-weight: 800;
+font-size: 20px;
+line-height: 28px;
+letter-spacing: 2px;
+text-transform: uppercase;
+
+}
+.h14{
+     width: 118px;
+height: 28px;
+top: 3334px;
+left: 1201px;
+font-family: SF Pro Text;
+font-weight: 800;
+font-size: 20px;
+line-height: 28px;
+letter-spacing: 2px;
+text-transform: uppercase;
+
+}
+.p1{
+     width: 165px;
+height: 28px;
+top: 3334px;
+left: 323px;
+font-family: SF Pro Text;
+font-weight: 400;
+font-size: 20px;
+line-height: 28px;
+letter-spacing: 2px;
+text-transform: uppercase;
+padding: 0;
+margin: 0%;
+
+}
+.p2{
+width: 231px;
+height: 28px;
+top: 3334px;
+left: 658px;
+font-family: SF Pro Text;
+font-weight: 400;
+font-size: 20px;
+line-height: 28px;
+letter-spacing: 2px;
+text-transform: uppercase;
+}
+.p3{
+     width: 108px;
+height: 28px;
+top: 3334px;
+left: 1066px;
+font-family: SF Pro Text;
+font-weight: 400;
+font-size: 20px;
+line-height: 28px;
+letter-spacing: 2px;
+text-transform: uppercase;
+
+}
+.p4{
+     width: 125px;
+height: 28px;
+top: 3334px;
+left: 1345px;
+font-family: SF Pro Text;
+font-weight: 400;
+font-size: 20px;
+line-height: 28px;
+letter-spacing: 2px;
+text-transform: uppercase;
+
+}
+.middle-text1{
+    width: 290.9147644042969px;
+    height: 27.296001434326172px;
+    top: 3467.12px;
+    left: 571.55px;
+    margin: 0 auto;
+    margin-top: 100px;
+
+}
+.middle-text2{
+    width: 488px;
+    height: 71px;
+    top: 3520px;
+    left: 473px;
+    font-family: New York Small;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 140%;
+    letter-spacing: 0%;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 30px;
+
+}
+.middle-text3{
+    width: 209px;
+height: 27px;
+top: 3623px;
+left: 613px;
+color: white;
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: space-between;
+margin: 0 auto;
+margin-top: 30px;
+
+}
+.div1{
+    width: 55px;
+height: 27px;
+top: 3623px;
+left: 613px;
+font-family: SF Pro Text;
+font-weight: 500;
+font-size: 16px;
+line-height: 170%;
+letter-spacing: 0%;
+text-decoration: underline;
+text-decoration-style: solid;
+text-decoration-thickness: 0%;
+content: Twitter;
+}
+.div2{
+    width: 66px;
+height: 27px;
+top: 3623px;
+left: 695px;
+font-family: SF Pro Text;
+font-weight: 500;
+font-size: 16px;
+line-height: 170%;
+letter-spacing: 0%;
+text-decoration: underline;
+text-decoration-style: solid;
+text-decoration-thickness: 0%;
+
+}
+.div3{
+    width: 32px;
+height: 27px;
+top: 3623px;
+left: 790px;
+font-family: SF Pro Text;
+font-weight: 500;
+font-size: 16px;
+line-height: 170%;
+letter-spacing: 0%;
+text-decoration: underline;
+text-decoration-style: solid;
+text-decoration-thickness: 0%;
+
+}
+.last-here{
+    width: 178px;
+height: 34px;
+top: 3714px;
+left: 627px;
+font-family: SF Pro Text;
+font-weight: 200;
+font-size: 12px;
+line-height: 140%;
+letter-spacing: 0%;
+margin: 70px auto 20px auto;
+
+}

@@ -1,0 +1,52 @@
+.article-container{
+    border-top: 2px solid #000000;
+    margin: 30px auto;
+    width: 640px;
+    max-width: 640px;
+   
+    text-align: center;
+
+}
+.article-container h1{
+    width: 225;
+    height: 53;
+    top: 1147px;
+    left: 608px;
+    font-family: New York Extra Large;
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-top: 100px;
+
+
+}
+
+.article-card-container{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 30px;
+    justify-content: center;
+    
+}
+.article-card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 16px;
+    width: 262px;
+}
+.article-card h4{
+        width: 262px;
+height: 78px;
+top: 1435px;
+left: 423px;
+font-family: SF Pro Display;
+font-weight: 500;
+font-size: 22px;
+line-height: 120%;
+letter-spacing: 0%;
+text-align: center;
+}

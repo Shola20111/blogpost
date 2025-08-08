@@ -1,0 +1,63 @@
+
+.banner-img{
+width: 854px;
+height: 533px;
+top: 210px;
+left: 293px;
+    
+}
+.texts{
+width: 858px;
+height: 162px;
+top: 787px;
+left: 293px;
+margin: 0;
+text-align: center;
+
+}
+.texts h4{
+    width: 858px;
+    height: 162px;
+    top: 787px;
+    left: 293px;
+    font-family: New York Extra Large;
+    font-weight: 600;
+    font-size: 54px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+
+   
+
+}
+.blogBanner-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+    text-align: center;
+    width: 858px;
+height: 839px;
+top: 210px;
+left: 293px;
+margin: 70px auto 0 auto;
+
+}
+.texts p{
+    width: 592px;
+height: 68px;
+top: 981px;
+left: 424px;
+font-family: SF Mono;
+font-weight: 400;
+font-size: 20px;
+line-height: 170%;
+letter-spacing: 0%;
+margin: 0 auto;
+
+    
+
+
+}
